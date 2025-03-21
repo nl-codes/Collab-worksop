@@ -6,7 +6,7 @@ def divide():
         result = "Undefined"
     else:
         result = divide
-    return result
+    print(num1+"divided by"+num2+"is: ",result) 
 
 def main():
     divide()
