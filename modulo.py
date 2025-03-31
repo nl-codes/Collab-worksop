@@ -6,6 +6,6 @@ def division():
     else:
         divide = num1%num2
         result = divide
-    print(f"The result of {num1} % {num2} is: {result}")
+    print(f"The remainder of {num1} / {num2} is: {result}")
 
 division()
